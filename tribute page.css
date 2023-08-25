@@ -12,6 +12,12 @@ h1{
     color: #F7BEC0 ;
     
 }
+h1:hover{
+   transition: 2s ;
+    
+    text-decoration: solid underline rosybrown;
+    
+}
 h4{
     
     font-family: cursive;
@@ -24,17 +30,57 @@ h3{
     font-style: normal;
     color: #F7BEC0  ;
 }
-img{
+.magns{
     margin: 0px 520px 0px 500px;
     border: 10px solid #E9EAE0;
     border-radius: 5%;
+    box-shadow: 4px 4px 8px green;
 
 }
 p,ul,ol{
-    color:#E9EAE0;
+    color:#c7b6a1;
+    font-family: cursive;
 }
-/*div{
-    height: 700px;
-    width: 700px;
-    background-image: url(magn.jpeg);
-}*/
+p:hover{
+    transition: 3s;
+    text-decoration:wavy underline black;
+}
+
+.magns:hover{
+    
+    transition: 1s;
+    box-shadow: 0px 16px 32px black;
+}
+.games{
+    height:400px;
+    width:300px;
+    border: 2px solid #E9EAE0;
+    border-radius: 5px;
+    margin: 5px;
+    box-shadow: 0px 8px 16px green;
+    display:inline-block;
+    transition: 1s;
+}
+.games:hover{
+    box-shadow: 0px 16px 32px black;
+}
+.gimg{
+    height:40%;
+    width:100%;
+    border-radius: 5px 0px 5px 0px;
+
+}
+.desc{
+    padding: 2px 4px 2px 4px;
+}
+h5{
+    font-family: cursive;
+    color: black;
+}
+.he4:hover{
+    transition: 2s;
+    transform: translate(0px, 50%);
+}
+.hearts{
+    text-align: center;
+}
