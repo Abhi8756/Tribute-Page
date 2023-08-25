@@ -1,0 +1,40 @@
+*{
+    
+    background-color:#C85250;
+    
+}
+.name{
+    text-align: center;
+}
+h1{
+    font-family: cursive;
+    font-style: italic;
+    color: #F7BEC0 ;
+    
+}
+h4{
+    
+    font-family: cursive;
+    font-style: oblique;
+    font-size: large;
+    color: #F7BEC0  ;
+}
+h3{
+    font-family: cursive;
+    font-style: normal;
+    color: #F7BEC0  ;
+}
+img{
+    margin: 0px 520px 0px 500px;
+    border: 10px solid #E9EAE0;
+    border-radius: 5%;
+
+}
+p,ul,ol{
+    color:#E9EAE0;
+}
+/*div{
+    height: 700px;
+    width: 700px;
+    background-image: url(magn.jpeg);
+}*/
