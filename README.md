@@ -1,2 +1,2 @@
 # Tribute-Page
-A Tribute Page project on Magnus Carlsen 
+A Tribute Page project on Magnus Carlsen
